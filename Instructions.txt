@@ -1,0 +1,13 @@
+Please navigate through the following folders to the jar file:
+holder2-->desktop-->build-->libs-->desktop-1.0.jar
+Run this file and use the keyboard or mouse to play (further details are included in the game menu screen).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To find the code, navigate through the following folders:
+holder2-->core-->src-->com-->veganova-->(any of the folders and the classes within)
+
+This game was made using the LibGDX library in Android studio. It can also be run on android phones and in html. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FYI: do not keep this game running for too long as there seem to be some memory issues that I did not have time to look into. 
+
+ENJOY!

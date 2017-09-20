@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.TextureRegion"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Vector2"/>
+<fullyQualifiedTypeName name="com.kilobolt.GameObjects.Bird"/>
+<fullyQualifiedTypeName name="com.kilobolt.GameObjects.Grass"/>
+<fullyQualifiedTypeName name="com.kilobolt.GameObjects.Pipe"/>
+<fullyQualifiedTypeName name="com.kilobolt.GameObjects.ScrollHandler"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Circle"/>
+<fullyQualifiedTypeName name="com.sun.jndi.url.corbaname.corbanameURLContextFactory"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Color"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Graphics"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.audio.Sound"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Rectangle"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Intersector"/>
+<fullyQualifiedTypeName name="com.kilobolt.ZBHelpers.AssetLoader"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Preferences"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.MathUtils"/>
+</qualifiedTypeNameHistroy>
